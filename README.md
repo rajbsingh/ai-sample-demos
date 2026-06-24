@@ -4,6 +4,7 @@ Simple AI demo code examples for RAG, document summarization, governance workflo
 
 This repository is designed to show practical AI implementation thinking in a simple and safe way.
 
+| `streamlit-document-summary-app.py` | Simple Streamlit app for document summarization demo |
 ---
 
 ## Purpose
