@@ -46,6 +46,20 @@ A simple Python example showing how long text can be converted into a short stru
 
 This is not a production summarization system. It is a basic example for learning and demonstration.
 
+### 3. Streamlit Document Summary App
+
+A simple Streamlit app that allows users to paste document text and generate:
+
+- Short summary
+- Key points
+- Basic review classification
+- Governance note
+
+Run locally:
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit-document-summary-app.py
 ---
 
 ## Important Notes
