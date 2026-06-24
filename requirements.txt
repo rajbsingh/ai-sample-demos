@@ -1,0 +1,10 @@
+# This repository currently uses only Python standard library modules.
+# No external packages are required for the initial demos.
+
+# Future optional dependencies may include:
+# openai
+# anthropic
+# python-dotenv
+# streamlit
+# chromadb
+# sentence-transformers
